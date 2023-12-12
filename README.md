@@ -38,7 +38,7 @@ AWS Message Sender
 33. Bit of struggle, as many example use pinpointv1, but now pinpoint has changed in version 2
 34. Seems okay now, but need roles for messages on the lambda! Adding them...
 35. I managed to sent the message to my phone!
-36. Spending too much time fixing tests, not sure how to mock 
+36. Simplified tests
 
 A lot happened on AWS UI, configuring stuff... I can share the code of the lambda, but the rest was pretty much clicking buttons and copy pasting ids
 
