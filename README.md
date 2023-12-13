@@ -4,7 +4,7 @@ AWS Message Sender
 # History
 
 1. Initialised npm
-2. Onstalled typescript
+2. Installed typescript
 3. Setup directory structure
 4. Setup typescript
 5. Setup server/routes/controller
