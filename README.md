@@ -39,6 +39,10 @@ AWS Message Sender
 34. Seems okay now, but need roles for messages on the lambda! Adding them...
 35. I managed to sent the message to my phone!
 36. Simplified tests
+37. Created EC2 instance
+39. SFTP the dist folder content
+40. SSH, install node, run
+41. sent message from the cloud
 
 A lot happened on AWS UI, configuring stuff... I can share the code of the lambda, but the rest was pretty much clicking buttons and copy pasting ids
 
